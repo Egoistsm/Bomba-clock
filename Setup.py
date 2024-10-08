@@ -1,8 +1,8 @@
 from cx_Freeze import setup, Executable
 
 setup(
-    name="Synapse X Testing",
+    name="Bomba clock",
     version="0.1",
-    description="DupeOS is roblox executor 100%UNC testing pre release.",
+    description="This's bomb file virus.",
     executables=[Executable("Bomba.py")],
 )
